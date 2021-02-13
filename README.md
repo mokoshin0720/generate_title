@@ -1,6 +1,7 @@
 # generate_title
 
 <p>Youtubeに使用したいタイトルを入力すると、意味は保ったまま表現の異なる文章を出力してくれる</p>
+![スクリーンショット 2021-02-13 13 15 36](https://user-images.githubusercontent.com/65533712/107841362-9215fc80-6dfd-11eb-9fa5-73da1f9375ee.png)
 
 
 <p>Google Colab上で制作</p>
